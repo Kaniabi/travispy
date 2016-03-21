@@ -28,6 +28,6 @@ setup(
         'Programming Language :: Python :: Implementation :: PyPy',
     ],
 
-    setup_requires=['pytest-runner'],
+    setup_requires=['pytest_runner'],
     tests_require=['pytest'],
 )
