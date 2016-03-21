@@ -1,3 +1,5 @@
 requests
 pytest
 pytest-rerunfailures
+pytest-pep8
+pytest-flakes
