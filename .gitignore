@@ -6,3 +6,4 @@ _build/
 .pydevproject
 .coverage
 .cache/
+/.idea/
